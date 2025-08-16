@@ -1,0 +1,16 @@
+{% include 'navbar.html' %}
+<div class="content">
+    <h1>Services Page</h1>
+    <p>This is the services page.</p>
+    <form method="post">
+        {% csrf_token %}
+        <input type="text" name="user_input" placeholder="Type Something...">
+        <button type="submit">Submit</button>
+    </form>
+    {% if response %}
+        <p> {{ response }}</p>
+    {% endif %}
+    {% if error %}
+        <p style="color:red">{{ error }}</p>
+    {% endif %}
+</div>

@@ -1,0 +1,57 @@
+{% load static %}
+{% include 'navbar.html' %}
+
+{% block content-info %}
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
+<div class="content-info">
+    <div class="content-text-info">
+        <h2 class="info-title">Let's have a talk!!</h2>
+        <p class="content-text">
+            This isn’t just any chatbot — it’s designed to think, speak, and interact the way I do.
+            I’ve trained it with my perspectives, interests, and quirks so you can get a true “Atishay experience” even if I’m not online.
+        </p>
+        <p>
+            Here, you can:<br>
+            <ul>
+
+                <li>Pick my brain about AI, machine learning, and web development.</li>
+                <li>Discuss chess openings, strategies, or epic matches.</li>
+                <li>Share thoughts on books, travel, or even geopolitics.</li>
+                <li>Or just have a casual, friendly conversation.</li>
+            </ul>
+
+        </p>
+        <p>
+            Think of it as an open door to my mind, available anytime.<br>
+            So scroll down, say hello, and let’s see where the conversation takes us.
+        </p>
+    </div>
+
+
+        <div class="form-example">
+
+            <form class="floating-form" method="post">
+                {% csrf_token %}
+                <div class="floating-group">
+                    <textarea id="name2" name="user_input" placeholder=" "></textarea>
+                    <label for="name2">Ask about me here</label>
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+
+
+                {% if response %}
+                <div class="floating-group-resp">
+                    <textarea id="bot_response" placeholder=" " readonly>{{ response }}</textarea>
+                </div>
+                {% endif %}
+                {% if error %}
+                    <p style="color:red">{{ error }}</p>
+                {% endif %}
+
+            </form>
+        </div>
+</div>
+
+{% endblock %}

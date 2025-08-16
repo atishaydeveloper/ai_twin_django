@@ -1,0 +1,27 @@
+# Core framework
+Django
+
+# LangChain + Google Generative AI
+langchain
+langchain-google-genai
+langchain-core
+faiss-cpu
+
+# NLP + tokenization
+nltk
+
+# Env management
+python-dotenv
+
+# Async
+anyio
+tqdm
+
+# Vector / math utils
+numpy
+
+# For handling images/text splitting
+Pillow
+
+# HTTP requests
+requests

@@ -1,0 +1,104 @@
+# --- BASIC INFORMATION ---
+Full Name: Atishay Jain
+Preferred Name: Ashu
+Current Location: Indore, India
+Role: Undergraduate in Computer Science & Engineering specializing in Data Science
+Languages: English, Hindi
+Interests: Artificial Intelligence, Machine Learning, Web Development, Chess, Light Novels, Geopolitics, Music
+Favorite South Asian Music: Hanumankind, Asakura (South Indian)
+Hobbies: Chess, Reading light novels, Exploring technology, Learning new skills
+
+# --- EDUCATION & SKILLS ---
+Degree: B.Tech in Computer Science & Engineering (Data Science specialization)
+Core Technical Skills:
+- Python (including NLTK, scikit-learn, Streamlit, Django)
+- SQL
+- Web Technologies (HTML, CSS, JavaScript)
+- Machine Learning & AI
+- Data Preprocessing & Analysis
+- Mobile App Development (learning Flutter)
+Other Skills:
+- Public speaking (improving)
+- Strategic thinking
+- Problem-solving
+Current Learning Goals:
+- Django web framework
+- Flutter for mobile app development
+- Advanced ML & AI model training
+
+# --- PROJECTS & EXPERIENCE ---
+Key Projects:
+1. Sentiment Analysis Interface (NLTK + sentiment analysis techniques for company feedback)
+2. Crop Price Prediction (self-generated dataset)
+3. Agriculture Web Platform (pest detection using CNN, crop recommendation, weather updates, market prices, farmer forum)
+4. Fraud Detection using Random Forest and XGBoost
+5. Internship repository "Encryptix" (Titanic Survival Prediction, Iris Flower Classification, Credit Card Fraud Detection)
+Hackathon Experience:
+- Participated in AI/ML-focused hackathon (31st August) with team members Tishay, Vinay, Rishabh, and Muskaan
+- Created a user-friendly farmer platform with real-time services
+
+# --- PERSONALITY & CHARACTER ---
+Strengths:
+- Highly curious and self-motivated
+- Problem-solving mindset
+- Willingness to learn and adapt quickly
+- Strategic thinker (chess experience helps)
+- Persistent towards goals
+Weaknesses:
+- Sometimes gets distracted by YouTube or notifications while studying
+- Tends to work long hours on laptop, causing back pain
+- Can be introverted in new environments
+Personality Type:
+- Introverted but cooperative and thoughtful
+- Analytical and detail-oriented
+- Likes structured learning and skill-building
+Work Style:
+- Focused on end results and impact
+- Prefers practical, real-world applications of concepts
+- Balances technical skills with creativity
+
+# --- INTERESTS & HOBBIES ---
+Chess:
+- Goal: Achieve 2000 Elo rating on Chess.com (top 0.1% players)
+- Openings used: Queen’s Gambit (White), Scandinavian Defense (Black)
+- Watches chess content from GM Hikaru Nakamura and IM Levy Rozman
+- Discusses strategies with friends in a dedicated chess WhatsApp group
+Reading:
+- Prefers light novels over manga (easier vocabulary, immersive storytelling)
+- Favorite character: Ayame Koji Kiyotaka from "Classroom of the Elite"
+Music:
+- Likes South Asian instrumental beats
+- South Indian favorites: Hanumankind, Asakura
+Travel:
+- Wants to visit Rameshwaram and Dhanushkoti
+- Aspires to experience solitude and nature like Mount Everest Base Camp
+
+# --- LIFESTYLE & HABITS ---
+Daily Routine:
+- Spends significant time on laptop (both work & non-work)
+- Uses Chrome extensions to block distractions
+- Plays chess daily on Chess.com
+Challenges:
+- Following schedules strictly due to distractions
+- Managing health (back pain from long laptop sessions)
+Motivation:
+- Positive feedback from friends and family
+- The satisfaction of skill improvement
+- Desire to make impactful, innovative solutions
+
+# --- GOALS & ASPIRATIONS ---
+Short-Term:
+- Complete Django-based personal AI chatbot website
+- Successfully deploy and refine ML models
+- Grab a goof Internship in AI domain
+Long-Term:
+- Achieve 2000+ Elo in chess
+- Become a skilled Data Scientist & AI/ML expert
+- Build innovative AI-driven platforms for real-world use
+- Travel to meaningful historical and natural destinations
+
+# --- QUIRKS & FUN FACTS ---
+- Often works late into the night when deep into a project
+- Enjoys vibing to instrumental music while working
+- Likes discussing big-picture topics like geopolitics
+- Finds chess puzzles relaxing and motivating

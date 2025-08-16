@@ -1,0 +1,29 @@
+{% load static %}
+{% include 'navbar.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Home</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <div class="content">
+        <div class="content-text">
+            <h1>Hi, I'm Atishay Jain</h1>
+            <p>
+                Data Science enthusiast, software developer, and AI explorer.
+                I love turning complex problems into elegant, data-driven solutions.
+            </p>
+            <p>
+                This website is home to my AI-powered digital twin — a chatbot that talks like me, thinks like me,
+                and shares my experiences, interests, and projects. Whether you want to discuss machine learning,
+                chess strategies, or even my favorite travel destinations, my AI twin is here for you 24/7.
+            </p>
+            <a href="{% url 'info' %}" class="btn btn-primary btn-lg mt-3">Talk to My AI Twin</a>
+        </div>
+        <img src="{% static 'images/atishay_jain.png' %}" alt="Atishay Jain">
+    </div>
+</body>
+</html>
